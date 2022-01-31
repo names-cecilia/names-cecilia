@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @names-cecilia, trully a newbie in IT field. Freshman in Computer Science~
-- 👀 I’m interested in UI/Ux and design
+- 👋 Hi, I’m Cecilia, a first-year student.
+- 👀 I’m interested in UI/UX and design
 - 🌱 I’m currently learning basic programming, UX laws, and design 
 - 📫 How to reach me? I'm on twitter @names_cecilia and instagram @namescecilia
 
