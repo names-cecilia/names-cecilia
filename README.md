@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Cecilia, a first-year student.
+- 👋 Hi, I’m Cecilia, a second-year collage student.
 - 👀 I’m interested in UI/UX and design
-- 🌱 I’m currently learning basic programming, UX laws, and design 
+- 🌱 Currently learning java programming, mobile app, and data analitics 
 - 📫 How to reach me? I'm on twitter @names_cecilia and instagram @namescecilia
 
 <!---
